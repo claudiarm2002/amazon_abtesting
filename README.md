@@ -1,1 +1,1 @@
-git # Proyecto AB testing Amazon
+# Proyecto AB testing Amazon
